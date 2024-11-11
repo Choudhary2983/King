@@ -14,7 +14,7 @@ require (
 	github.com/prometheus/client_golang v1.20.2
 	go.uber.org/zap v1.27.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
-	golang.org/x/oauth2 v0.23.0
+	golang.org/x/oauth2 v0.24.0
 	golang.org/x/sync v0.8.0
 	k8s.io/api v0.31.0
 	k8s.io/apimachinery v0.31.0
